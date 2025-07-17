@@ -1,9 +1,5 @@
-# Catalog-crypto-api
-
 README.md:
-markdown
-Copy
-Edit
+
 # Catalog Crypto API
 
 The **Catalog Crypto API** is a comprehensive RESTful API designed for managing and querying cryptocurrency-related historical data. This API provides endpoints for various cryptocurrency histories such as depth, earnings, swap, and runepool units. It is built with Rust and provides efficient access to the required data through various routes and migration scripts.
